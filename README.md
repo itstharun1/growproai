@@ -1,12 +1,24 @@
 # GrowthProAI – Full Stack Intern Assignment
-run the backend code
+Run the Backend
+# Step 1: Go into the backend folder
 cd backend
+
+# Step 2: Install dependencies
 npm install
+
+# Step 3: Start the server
 npm start
+
 run the frontend code
+# Step 1: Go into the frontend folder
 cd frontend
+
+# Step 2: Install dependencies
 npm install
+
+# Step 3: Start the development server
 npm run dev
+
 
 This is a full stack assignment project that simulates how local businesses can view their SEO content and Google Business data. It includes both a React + Tailwind frontend and a Node.js + Express backend.
 
