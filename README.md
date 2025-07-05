@@ -1,4 +1,12 @@
 # GrowthProAI – Full Stack Intern Assignment
+run the backend code
+cd backend
+npm install
+npm start
+run the frontend code
+cd frontend
+npm install
+npm run dev
 
 This is a full stack assignment project that simulates how local businesses can view their SEO content and Google Business data. It includes both a React + Tailwind frontend and a Node.js + Express backend.
 
@@ -49,11 +57,4 @@ To build a mini dashboard that displays a local business’s rating, reviews, an
 ### 🔧 Prerequisites
 
 - Node.js and npm installed
-run the backend code
-cd backend
-npm install
-npm start
-run the frontend code
-cd frontend
-npm install
-npm run dev
+
